@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="LawnGnomeDX — weak-signal keyboard messaging for amateur radio. Public release coming soon.">
+  <title>LawnGnomeDX — Coming Soon</title>
+
+  <link rel="icon" type="image/png" href="lawngnomedx-logo.png">
+
+  <style>
+    :root {
+      --ink: #173326;
+      --paper: #f4ecd7;
+      --paper-deep: #e8dcc0;
+      --accent: #bd541d;
+      --muted: #56685e;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      min-height: 100%;
+      margin: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 32px 20px;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 50% 25%, rgba(255,255,255,.72), transparent 34rem),
+        linear-gradient(145deg, #fbf6e9 0%, var(--paper) 54%, var(--paper-deep) 100%);
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    main {
+      width: min(760px, 100%);
+      text-align: center;
+    }
+
+    .logo {
+      display: block;
+      width: min(560px, 86vw);
+      height: auto;
+      margin: 0 auto 24px;
+      border-radius: 50%;
+      filter: drop-shadow(0 12px 22px rgba(23, 51, 38, .14));
+    }
+
+    h1 {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: clamp(2.1rem, 7vw, 4rem);
+      line-height: 1;
+      letter-spacing: .03em;
+      color: var(--ink);
+    }
+
+    .subtitle {
+      margin: 18px auto 0;
+      max-width: 620px;
+      font-size: clamp(1.05rem, 2.7vw, 1.35rem);
+      line-height: 1.55;
+      color: var(--muted);
+    }
+
+    .coming-soon {
+      display: inline-block;
+      margin-top: 28px;
+      padding: 11px 20px;
+      border: 2px solid var(--ink);
+      border-radius: 999px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: .92rem;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      background: rgba(255,255,255,.25);
+    }
+
+    footer {
+      margin-top: 34px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: .8rem;
+      color: #718078;
+    }
+
+    @media (max-width: 520px) {
+      body {
+        padding-top: 20px;
+      }
+
+      .logo {
+        width: min(420px, 94vw);
+        margin-bottom: 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <img
+      class="logo"
+      src="lawngnomedx-logo.png"
+      alt="LawnGnomeDX — Standing Small, Talking Tall"
+    >
+
+    <h1>LawnGnomeDX</h1>
+
+    <p class="subtitle">
+      Weak-signal keyboard messaging for amateur radio,
+      designed to keep the conversation going when the signal gets tough.
+    </p>
+
+    <div class="coming-soon">Public Release Coming Soon</div>
+
+    <footer>
+      LawnGnomeDX.com
+    </footer>
+  </main>
+</body>
+</html>
