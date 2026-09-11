@@ -1,7 +1,5 @@
 # LawnGnomeDX
 
-![LawnGnomeDX logo](lawngnomedx-logo.png)
-
 **Standing Small, Talking Tall™**
 
 LawnGnomeDX is a sound-card radio modem application for exchanging **text, files, and images over radio**. It is designed for simple keyboard messaging using a radio/audio interface, with callsign-based addressing, CQ operation, selectable RX/TX audio devices, and a built-in waterfall display.
