@@ -1,0 +1,293 @@
+NO-SALE SOURCE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Steven A. Meschkat
+
+All rights reserved except as expressly granted under this License.
+
+1. Definitions
+
+For purposes of this License:
+
+“Software” means the software, source code, executable code, documentation, and other materials distributed with this License, including any substantial portion thereof.
+
+“Derivative Work” means any modification, adaptation, translation, enhancement, extension, fork, or other work based upon or incorporating a substantial portion of the Software.
+
+“Source Code” means the preferred form of the Software or a Derivative Work for making modifications to it.
+
+“Redistribute” means to provide a copy of the Software or a Derivative Work to another person or entity.
+
+“Sell” means to provide, license, sublicense, rent, lease, distribute, transfer, or otherwise make a copy of the Software or a Derivative Work available to another person or entity in exchange for money, payment, valuable consideration, or any other mandatory fee.
+
+“Sell” also includes including the Software or a Derivative Work in a paid product, package, bundle, download, subscription, or other transaction when the Software or Derivative Work constitutes a material part of what the recipient is paying to receive.
+
+2. License Grant
+
+Subject to the terms and conditions of this License, each recipient is granted a worldwide, royalty-free, non-exclusive license to:
+
+a. use and execute the Software for any lawful purpose;
+
+b. use the Software for personal, educational, research, governmental, organizational, or commercial purposes;
+
+c. inspect and study the Source Code;
+
+d. reproduce and copy the Software;
+
+e. modify the Software;
+
+f. create Derivative Works;
+
+g. privately use modified versions of the Software;
+
+h. Redistribute the original Software free of charge; and
+
+i. Redistribute Derivative Works free of charge.
+
+These rights are granted without requiring payment to the Copyright Holder.
+
+3. No Sale of the Software
+
+You may not Sell the Software.
+
+You may not Sell a Derivative Work.
+
+In particular, you may not require payment or other consideration in exchange for:
+
+a. downloading the Software or a Derivative Work;
+
+b. receiving a copy of the Software or a Derivative Work;
+
+c. obtaining permission to possess or use a copy of the Software or a Derivative Work;
+
+d. receiving an activation key, license key, access key, or similar mechanism necessary to use a distributed copy of the Software or a Derivative Work;
+
+e. receiving a substantially equivalent renamed, rebranded, modified, translated, packaged, or repackaged version of the Software; or
+
+f. receiving a paid product or bundle whose material value consists of the Software or a Derivative Work.
+
+Changing the Software's name, graphical appearance, interfaces, file structure, packaging, configuration, algorithms, functions, or other implementation details does not remove this restriction if the resulting work is a Derivative Work.
+
+4. Commercial Use Is Permitted
+
+The prohibition on Sale does not prohibit commercial use of the Software.
+
+Subject to the other terms of this License, you may:
+
+a. use the Software internally within a commercial business;
+
+b. use the Software in performing your own business operations;
+
+c. use the Software to perform research, analysis, development, manufacturing, administration, or other commercial activities;
+
+d. modify the Software for internal commercial use;
+
+e. use the Software in connection with consulting, support, training, integration, or professional services;
+
+f. charge for your own labor, expertise, consulting, support, training, or other independent services, provided that payment is not required in exchange for receiving a copy of the Software or a Derivative Work; and
+
+g. use the Software to operate or provide a network-accessible or hosted service, provided that no copy of the Software or Derivative Work is transferred to the customer for a fee.
+
+Commercial activity by itself does not constitute Sale under this License.
+
+5. Voluntary Donations
+
+You may request or accept voluntary donations, sponsorships, grants, tips, or other voluntary financial support relating to your development, maintenance, or distribution of the Software or a Derivative Work.
+
+A payment is considered voluntary only when:
+
+a. payment is not required to obtain the Software or Derivative Work;
+
+b. nonpayment does not reduce the recipient's rights under this License; and
+
+c. the same Software or Derivative Work remains available without payment.
+
+6. Redistribution Requirements
+
+You may Redistribute the Software or a Derivative Work only if all of the following conditions are satisfied:
+
+a. the redistribution is provided without charge;
+
+b. a complete copy of this License accompanies the redistribution;
+
+c. all copyright notices, attribution notices, and license notices contained in the Software are preserved;
+
+d. recipients are informed that the Software is licensed under the No-Sale Source License Version 1.0;
+
+e. recipients receive all rights granted by this License;
+
+f. no additional contractual, technical, or legal restriction is imposed that prevents recipients from exercising the rights granted by this License; and
+
+g. if the Software has been modified, the redistributed version clearly states that it has been modified.
+
+You may identify yourself as the author of your modifications, but you may not represent yourself as the author of portions of the Software that you did not create.
+
+7. Source Code Requirement
+
+If you Redistribute the Software or a Derivative Work in executable, compiled, packaged, obfuscated, minified, or otherwise non-source form, you must also provide the corresponding Source Code.
+
+The corresponding Source Code must be provided:
+
+a. with the redistributed work; or
+
+b. through a publicly accessible method that does not require payment, registration, subscription, or other consideration.
+
+The Source Code must be sufficient to permit recipients to inspect, modify, rebuild, and redistribute the covered Software or Derivative Work.
+
+8. Derivative Works
+
+Derivative Works may be created and redistributed.
+
+Any Derivative Work that is Redistributed must be licensed under this License.
+
+You may not impose license terms upon a Derivative Work that:
+
+a. prohibit modification;
+
+b. prohibit free redistribution;
+
+c. require payment for redistribution;
+
+d. prohibit access to corresponding Source Code; or
+
+e. otherwise reduce the rights granted to recipients under this License.
+
+This requirement applies only to the Software and Derivative Works covered by this License. It does not automatically impose this License upon separate and independent works merely because they communicate with, invoke, import, interface with, or operate alongside the Software.
+
+9. Larger and Combined Works
+
+You may combine the Software with separate and independent software.
+
+A separate and independent work does not become subject to this License merely because it:
+
+a. launches the Software;
+
+b. communicates with the Software through an interface or protocol;
+
+c. imports or calls the Software as a separate component;
+
+d. exchanges data with the Software; or
+
+e. is distributed alongside the Software.
+
+However, modifications to the Software itself and works derived substantially from the Software remain subject to this License.
+
+If a paid bundle or product includes the Software or a Derivative Work and the Software or Derivative Work is a material part of what purchasers are paying to receive, that distribution constitutes a prohibited Sale under Section 3.
+
+10. No Circumvention of the No-Sale Requirement
+
+You may not circumvent the No-Sale requirement through artificial transaction structures.
+
+Examples of prohibited circumvention include:
+
+a. charging a mandatory “processing fee,” “membership fee,” “download fee,” “access fee,” or similar fee as a condition of receiving the Software;
+
+b. requiring the purchase of another product primarily in order to obtain the Software;
+
+c. nominally giving the Software away while requiring payment for a key, password, activation mechanism, or other item necessary for normal use of the distributed copy;
+
+d. selling a minimally altered or rebranded Derivative Work; or
+
+e. using another person or entity to perform an act that would violate this License if performed directly.
+
+11. Attribution and Modification Notices
+
+Redistributed copies must retain the original copyright notice and this License.
+
+Modified versions must contain a reasonably prominent notice stating that modifications have been made.
+
+The modification notice should identify the person or organization responsible for the modifications when reasonably practical.
+
+Nothing in this License requires modifications to be approved by the original Copyright Holder.
+
+12. No Endorsement or Trademark License
+
+This License does not grant permission to use any trademark, service mark, trade name, logo, product name, project name, or other branding of the Copyright Holder except as reasonably necessary to identify the origin of the Software or comply with attribution requirements.
+
+You may not imply that the Copyright Holder endorses, sponsors, certifies, or approves your Derivative Work, redistribution, organization, product, or service unless you have received separate written permission.
+
+13. Contributions
+
+Unless a separate written agreement states otherwise, any source code or other contribution intentionally submitted for inclusion in the Software is offered under the terms of this License.
+
+Copyright in a contribution remains with its contributor unless separately assigned.
+
+Nothing in this section requires the Copyright Holder to accept any contribution.
+
+14. Separate Licensing by Copyright Holders
+
+Nothing in this License prevents a copyright holder from separately licensing material for which that copyright holder owns the necessary rights under different terms, including commercial terms.
+
+Permission granted to others under this License does not transfer ownership of the Copyright Holder's copyright.
+
+15. Compliance With Law
+
+This License grants permission only to the extent permitted by applicable law.
+
+You remain responsible for complying with all laws and regulations applicable to your use or distribution of the Software.
+
+16. Termination
+
+Your rights under this License terminate automatically if you materially violate its terms.
+
+If the violation is capable of being corrected, your rights will automatically be reinstated if:
+
+a. you cease the violation;
+
+b. you correct the violation to the extent reasonably possible; and
+
+c. you complete the correction within thirty (30) days after becoming aware of the violation.
+
+A repeated or intentional violation may be enforced by the applicable copyright holder notwithstanding a previous cure.
+
+Termination of your rights does not terminate licenses previously and validly granted to recipients who remain in compliance with this License.
+
+17. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDERS AND CONTRIBUTORS DISCLAIM ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, SECURITY, AND PERFORMANCE.
+
+YOU ACCEPT ALL RISK ARISING FROM THE USE, MODIFICATION, OR DISTRIBUTION OF THE SOFTWARE.
+
+18. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATING TO THE SOFTWARE OR THIS LICENSE.
+
+THIS LIMITATION INCLUDES, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA, LOSS OF PROFITS, LOSS OF REVENUE, BUSINESS INTERRUPTION, SYSTEM FAILURE, PERSONAL INJURY, PROPERTY DAMAGE, OR ANY OTHER COMMERCIAL OR ECONOMIC LOSS, WHETHER ARISING UNDER CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+19. Severability
+
+If any provision of this License is held unenforceable or invalid, that provision shall be interpreted or limited to the minimum extent necessary to make it enforceable where permitted by law.
+
+If it cannot be made enforceable, that provision shall be severed.
+
+The remaining provisions shall remain in effect.
+
+20. No Waiver
+
+Failure by a copyright holder to enforce any provision of this License on one occasion does not constitute a waiver of the right to enforce that provision or any other provision on another occasion.
+
+21. Acceptance
+
+You are not required to accept this License merely to receive or inspect the Software.
+
+However, exercising any right granted exclusively by this License, including modification or redistribution, constitutes acceptance of and agreement to comply with its terms.
+
+22. License Identification
+
+This license may be identified as:
+
+No-Sale Source License Version 1.0
+
+or:
+
+NSSL-1.0
+
+Software distributed under this License should include the following notice where practical:
+
+    Licensed under the No-Sale Source License Version 1.0 (NSSL-1.0).
+    You may use, modify, and redistribute this software free of charge.
+    You may not sell the software or derivative versions.
+    See the LICENSE file for the complete terms.
+
+END OF LICENSE
